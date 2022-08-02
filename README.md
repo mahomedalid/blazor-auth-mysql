@@ -5,7 +5,7 @@ Blazor boilerplate template including user authentication with a MySQL database.
 # Pre-reqs
 
 * dotnet sdk
-* dotnet entity framework tool
+* Entity Framework Core .NET Command-line Tools (aka `dotnet ef`)
 * MySQL/MariaDB server
 
 # How to use it
